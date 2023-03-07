@@ -28,43 +28,43 @@ Desenvolvimento da <em>**API REST**</em> no **padrão MVC** que retorna informa�
 
 | Método | Rota | Descrição |
 | ------ | ----- | ----------- |
-| **`GET`** | **/polos** | Retorna todos os fisioterapeutas. |
-|  **`GET`** | **/polos/id** | Retorna um fisioterapeuta. |
-|  **`POST`** | **/polos** | Cria um novo fisioterapeuta.  |
-|  **`PUT`** | **/polos/id** | Altera os dados do fisioterapeuta.
-|  **`DELETE`** | **/polos/id** | Remove o fisioterapeuta.
+| **`GET`** | **/polos** | Retorna todos os polos. |
+|  **`GET`** | **/polos/id** | Retorna um polo específico. |
+|  **`POST`** | **/polos** | Cria um novo polo. |
+|  **`PUT`** | **/polos/id** | Altera os dados de um polo. |
+|  **`DELETE`** | **/polos/id** | Remove um polo. |
   
 ### [ 2 ] <em>candidatos</em>
 
 | Método | Rota | Descrição |
 | ------ | ----- | ----------- |
-|  **`GET`** | **/candidatos** | Retorna todos os Pacientes. |
-|  **`GET`** | **/candidatos/id** | Retorna um Paciente. |
-|  **`POST`** | **/candidatos** | Cria um novo Paciente.  |
-|  **`PUT`** | **/candidatos/id** | Altera os dados do Paciente.
-|  **`DELETE`** | **/candidatos/id** | Remove o Paciente.
+|  **`GET`** | **/candidatos** | Retorna todos os candidatos. |
+|  **`GET`** | **/candidatos/id** | Retorna um candidato específico. |
+|  **`POST`** | **/candidatos** | Cria um novo candidato. |
+|  **`PUT`** | **/candidatos/id** | Altera os dados de um candidato. |
+|  **`DELETE`** | **/candidatos/id** | Remove um candidato. |
   
   
 ### [ 3 ] <em>resultados</em>
 
 | Método | Rota | Descrição |
 | ------ | ----- | ----------- |
-|  **`GET`** | **/resultados** | Retorna todos os agendamentos. |
-|  **`GET`** | **/resultados/id** | Retorna um agendamento. |
-|  **`POST`** | **/resultados** | Cria um novo agendamento.  |
-|  **`PUT`** | **/resultados/id** | Altera os dados do agendamento.
-|  **`DELETE`** | **/resultados/id** | Remove o agendamento.
+|  **`GET`** | **/resultados** | Retorna todos os resultados. |
+|  **`GET`** | **/resultados/id** | Retorna um resultado específico. |
+|  **`POST`** | **/resultados** | Cria um novo resultado. |
+|  **`PUT`** | **/resultados/id** | Altera os dados de um resultado. |
+|  **`DELETE`** | **/resultados/id** | Remove um resultado. |
 
 
 ### [ 4 ] <em>zonas</em>
 
 | Método | Rota | Descrição |
 | ------ | ----- | ----------- |
-|  **`GET`** | **/zonas** | Retorna todos os equipamentos. |
-|  **`GET`** | **/zonas/id** |  Retorna um equipamento. |
-|  **`POST`** | **/zonas** | Cria um novo mequipamento.  |
-|  **`PUT`** | **/zonas/id** | Altera os dados do equipamento.
-|  **`DELETE`** | **/zonas/id** | Remove o equipamento.
+|  **`GET`** | **/zonas** | Retorna todas as zonas. |
+|  **`GET`** | **/zonas/id** |  Retorna uma zona específica. |
+|  **`POST`** | **/zonas** | Cria uma nova zona. |
+|  **`PUT`** | **/zonas/id** | Altera os dados de uma zona. |
+|  **`DELETE`** | **/zonas/id** | Remove uma zona. |
   
 
 ### [ 5 ] <em>login</em>
