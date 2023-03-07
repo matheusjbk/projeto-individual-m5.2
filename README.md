@@ -1,4 +1,4 @@
-# *Projeto-Individual-Final*
+# *Projeto Individual Final*
 
 Nossa equipe teve diversas ideias para a criação do que seria o nosso site e nossa API, alguns deram ideias parecidas e ouros deram ideias diferente, nossa squad 3 se reuniu com o objetivo de pensar e criar algo que fosse de interessante para o governo ou algum órgão de educação que fosse acessível e de fácil acesso para todas as idades para a compreensão de todo público, principalmente com aqueles que apresentam alguma dificuldade em interagir com tecnologias diversas.
 Aqui a baixo irei mostrar as diversas ideias que teve na equipe:
